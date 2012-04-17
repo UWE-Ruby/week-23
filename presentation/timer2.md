@@ -1,6 +1,14 @@
-!SLIDE countdown
+!SLIDE countdown bullets
 
-## Objective
+### Conduct an Informal Walkthrough
+
+* Important conceptual concepts
+* Application flow
+* Source code layout
+* Unfinished areas
+* Strengths
+* Areas needing improvement
+* Weaknesses
 
 <div id="countdown_dashboard2" style="margin-left: 372px; width: 350px; height:150px;">
   

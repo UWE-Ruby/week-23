@@ -1,8 +1,20 @@
+!SLIDE
+
+# Exercise
+
+Perform an Informal Walkthrough
+
 !SLIDE quote
-# Exercise #
 
-!SLIDE points
+## Setup
 
-## Understand the problem
+Select a Partner
 
-## Address the problem
+Choose a person's configuration project to review
+
+!SLIDE quote
+
+## Switch Roles
+
+If time allows, change your roles as facilitator and reviewer.
+

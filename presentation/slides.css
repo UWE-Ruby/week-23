@@ -1,5 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Glegoo|Della+Respira|Muli|Oxygen);
+/*font-family: 'Glegoo', serif;
+font-family: 'Della Respira', serif;
+font-family: 'Muli', sans-serif;
+font-family: 'Oxygen', sans-serif;
+*/
 html, body {
-	font-family: Tahoma;
+  font-family: 'Glegoo', serif;
 }
 
 .slide { 
@@ -14,12 +20,28 @@ a:visited {
 
 /* Provide a big centered box to highlight the paragraph */
 
-.quote p, .points p {
-  margin: auto 200px;
+.quote p {
+  margin: 10px 100px auto 100px;
+  
   padding: 30px;
   background-image:url('images/cross_scratches.png'); 
   border-radius :15px;
+
+  font-family: 'Muli', sans-serif;
+  line-height: 1.5;
+  text-align: justify;
+  
   color: black;  
+}
+
+.bullets p {
+  background: url('images/tag.png') no-repeat;
+  padding-left:60px;
+  margin: 10px 50px;
+  font-family: 'Muli', sans-serif;
+  line-height: 1.5;
+  font-size: 30px;
+  letter-spacing:2px
 }
 
 .points h2 {
@@ -44,6 +66,19 @@ a:visited {
   padding: .5em;
 }
 
+/* Ruby Source Code */
+
+.sh_ruby {
+  background-image:url('images/cross_scratches.png'); 
+  border-radius :15px;
+}
+
+.content > pre {
+  padding: 20px;
+  font-size: 200%;
+}
+
+
 /* Button Style */
 
 .button {
@@ -61,7 +96,7 @@ a:visited {
 	display:inline-block;
 	color:#ffffff;
 	font-family:arial;
-	font-size:40px;
+	font-size:40vpx;
 	font-weight:bold;
 	padding:6px 24px;
 	text-decoration:none;
