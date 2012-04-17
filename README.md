@@ -41,9 +41,9 @@ Comments, questions, and suggestions made about the code should be captured. It
 is often quickest to simply add comments within the code around the section of
 discussion.
 
-    > Often times you know the strengths and weakness of your code the best and
-    > might actually be the strongest reviewer of it. When you do review it do
-    > not hesitate to write down your own comments for later self.
+    Often times you know the strengths and weakness of your code the best and
+    might actually be the strongest reviewer of it. When you do review it do
+    not hesitate to write down your own comments for later self.
 
 ##### Reviewers
 
@@ -53,10 +53,10 @@ consumer) to help you guide your questions. Your first goal is to ask questions
 about the code to help you gain an understanding of the implementation. Your
 second goal is to ask questions and make statements to help improve the code.
 
-    > When you discover what you believe is a deficiency or discrepancy it is
-    > important for you to tactifully bring that to the authors attention. 
-    > Providing assistance tactfully is difficult. One way of providing feedback
-    > is to ask more *questions* that lead you to find the deficiency initially.
+    When you discover what you believe is a deficiency or discrepancy it is
+    important for you to tactifully bring that to the authors attention. 
+    Providing assistance tactfully is difficult. One way of providing feedback
+    is to ask more *questions* that lead you to find the deficiency initially.
 
 ### Exercise Retrospective
 
