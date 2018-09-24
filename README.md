@@ -25,7 +25,7 @@ The other individuals within the group will act as the reviewers.
 ##### Facilitator
 
 The other individuals are aware of the overall goal of the system. What they are
-likely not aware of is the the implementation. Take a moment to think about your
+likely not aware of is the implementation. Take a moment to think about your
 implementation:
 
 * Important conceptual concepts
